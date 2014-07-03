@@ -41,8 +41,8 @@
   # cli
   # shell tooling
   - role: git
-    git_user_name: Bob Bob
-    git_user_email: bob.bob@example.com
+    git_user_name: bpardee
+    git_user_email: bradpardee@gmail.com
   - role: legit
   - role: hub
   - role: brew_package
