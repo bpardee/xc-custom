@@ -15,6 +15,11 @@
     - /Applications/Atom.app
     - /Applications/iTerm.app
     - /Applications/Dash.app
+    - /Applications/CCMenu.app
+    - /Applications/Evernote.app
+    - "/Applications/Google Chrome.app"
+    - "/Applications/Google Notifier.app"
+    - /Applications/Skype.app
     folders:
     - path: ~/
     - path: ~/Documents
